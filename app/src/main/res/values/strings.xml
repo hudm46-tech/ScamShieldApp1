@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScamShield</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Profile</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="total_scams">Scams Blocked</string>
+    <string name="today">Today</string>
+    <string name="safe">You are Safe</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="report_scam">Report Scam</string>
+    <string name="analyze">Analyze</string>
+    <string name="report">Report</string>
+    <string name="scam_detected">Scam Detected!</string>
+    <string name="safe_message">This message appears safe</string>
+</resources>
